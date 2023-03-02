@@ -3,6 +3,7 @@ ingest/.env/
 scripts/*secrets.sh
 .vscode/
 .env
+.venv
 __pycache__/
 *.pyc
 .idea/
